@@ -1,5 +1,5 @@
 # JDBSPostreSQL
-Demo bank system with JDBS and PostreSQL.
+Demo pay system with JDBS and PostreSQL.
 You can send money and look at the changes
 
 Before the starting copy the file "database" and complete in PostreSQL console
